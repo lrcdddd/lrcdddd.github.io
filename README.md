@@ -1,7 +1,4 @@
-                                                            春雨量刑评估
-
-
-一个量刑评估系统
+                                                           
 # Hi 🎉 欢迎使用量刑评估系统!
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
@@ -31,6 +28,7 @@
 
 -   <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：掘金优秀作者，发表了 30 篇技术文章，15万阅读。
 
+
 ### **技术栈:**
 
 <a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
@@ -43,3 +41,17 @@
 <a href="https://tailwindcss.com"><code><img height="20" src="./images/tailwindcss.png"></code></a>
 <a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
+
+### 开源项目
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=mp4To4K-rust)](https://github.com/Minori-ty/mp4To4K-rust)
+<br><br><br>
+
+### Github 活跃度
+
+[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&layout=compact&langs_count=6)
+
