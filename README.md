@@ -18,7 +18,28 @@
 ![](https://stats.justsong.cn/api/csdn?id=wangzirui32&theme=dark)
 ![](https://stats.justsong.cn/api/bilibili/?id=1513364019&theme=dark)
 ![](https://activity-graph.herokuapp.com/graph?username=wangzirui32&theme=github)
-![微信图片_20221101195717](https://user-images.githubusercontent.com/116004005/199736178-0311b4c6-d6e7-4461-a5f8-ce4088ed8507.jpg)
-![微信图片_20221101195725](https://user-images.githubusercontent.com/116004005/199736181-4af4a6fa-1e90-445e-b8b7-c590aa04c368.jpg)
-![微信图片_20221101195732](https://user-images.githubusercontent.com/116004005/199736185-73225803-ae96-4558-9de6-c54ec758ba06.jpg)
-![微信图片_20221101195738](https://user-images.githubusercontent.com/116004005/199736190-37676e46-df15-48f0-b94a-4010f426e9f2.jpg)
+<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+
+## 热爱编程的宅男
+
+热爱前端、热爱技术。工作经验1年。喜欢参与一些开源项目的讨论。
+
+### **社交主页：**
+
+ <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+
+
+-   <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：掘金优秀作者，发表了 30 篇技术文章，15万阅读。
+
+### **技术栈:**
+
+<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
+<a href="https://reactjs.org/"><code><img height="20" src="./images/react.svg"></code></a>
+<a href="https://nextjs.org/"><code><img height="20" src="./images/next.png"></code></a>
+<a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png"></code></a>
+<a href="https://webpack.js.org/"><code><img height="20" src="./images/webpack.svg"></code></a>
+<a href="https://cn.vitejs.dev"><code><img height="20" src="./images/vite.png"></code></a>
+<a href="https://sass-lang.com"><code><img height="20" src="./images/sass2.png"></code></a>
+<a href="https://tailwindcss.com"><code><img height="20" src="./images/tailwindcss.png"></code></a>
+<a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
+<a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
