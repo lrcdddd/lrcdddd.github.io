@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <meta name="keywords" content="书法,字典,字帖,集字,以观书法">
+    <meta name="keywords" content="书法,字典,字帖,集字,量刑系统">
     <link rel="icon" href="./image/favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" href="./image/favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" sizes="180x180" href="./image/icon.png">
