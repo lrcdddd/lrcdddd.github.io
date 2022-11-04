@@ -2,7 +2,7 @@
 
 
 一个量刑评估系统
-# Hi 🎉 Welcome to YuYueSummer's Github Homepage!
+# Hi 🎉 欢迎使用量刑评估系统!
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
 
