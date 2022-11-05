@@ -46,7 +46,7 @@
 ### 特别声明：该款软件预估刑期为建模预估，仅供参考，实际刑期与此有差异实属正常，希望使用用户客观看待预估的刑期。
 
 ## 隐私政策
-
+https://github.com/lrcdddd/lrcdddd.github.io/blob/main/%E6%98%A5%E9%9B%A8%E8%AF%84%E4%BC%B0%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96.docx
 
 ## 联系方式
 
