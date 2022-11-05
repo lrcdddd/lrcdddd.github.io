@@ -8,6 +8,8 @@
 集合了量刑、学习、案例搜索于一体，法律工作者、法律爱好者的良师挚友！！
 
 <img width="54" alt="中图PNCpng" src="https://user-images.githubusercontent.com/116004005/200094839-524c6678-716e-4f9d-abab-c3f5ea98ac01.png"> 安卓版
+软件下载地址：
+
 
 苹果版，正在开发中
 
