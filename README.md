@@ -1,6 +1,4 @@
-                                                           
-
-## 春雨评估
+ ## 春雨评估
 一款轻量级量刑系统
 
 <img width="256" alt="proc41" src="https://user-images.githubusercontent.com/116004005/200094497-8e0d6376-9d89-40fb-b5b2-da20399d8d39.png">
