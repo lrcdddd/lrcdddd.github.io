@@ -1,14 +1,15 @@
                                                            
 
-## 以观书法
+## 春雨评估
+一款轻量级量刑系统
 
-![](./image/ygsf.png)
+<img width="256" alt="proc41" src="https://user-images.githubusercontent.com/116004005/200094497-8e0d6376-9d89-40fb-b5b2-da20399d8d39.png">
 
-4.9 分 12 MB 987 万次安装
+集合了量刑、学习、案例搜索于一体，法律工作者、法律爱好者的良师挚友！！
 
-![](./image/android.png) 安卓版
+<img width="54" alt="中图PNCpng" src="https://user-images.githubusercontent.com/116004005/200094839-524c6678-716e-4f9d-abab-c3f5ea98ac01.png"> 安卓版
 
-![](./image/apple.png) 苹果版
+苹果版，正在开发中
 
 ![](./image/web.png) 网页版
 
