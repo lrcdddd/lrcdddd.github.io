@@ -7,13 +7,17 @@
 
 集合了量刑、学习、法律司法解释规范性文件案例搜索于一体，是法律工作者、法律爱好者的良师挚友！！
 
+## 软件下载
+
 <img width="54" alt="中图PNCpng" src="https://user-images.githubusercontent.com/116004005/200094839-524c6678-716e-4f9d-abab-c3f5ea98ac01.png"> 安卓版
-软件下载地址：https://github.com/lrcdddd/lrcdddd.github.io
-软件包分四卷分别为：app-release.zip.001;app-release.zip.002;app-release.zip.003;app-release.zip.004.
+> ・软件下载地址：https://github.com/lrcdddd/lrcdddd.github.io
+
+> ・软件包分四卷分别为：app-release.zip.001;app-release.zip.002;app-release.zip.003;app-release.zip.004.
 
 
 苹果版，正在开发中
 
+## 内容展示
 
 逻辑简单清晰，查询简便，刑期预估准确快速
 
