@@ -38,6 +38,6 @@
 > ・这还是一款可定制可增减内容的小巧软件，欢迎机构单位联系洽谈，电话：13858411159，QQ：44692359.。
 
 
-© 2021 以观文化 皖ICP备18024832号-2
+© 2021 春雨评估 皖ICP备18024832号-2
 
 document.getElementById('beian').innerText = (location.href.indexOf('ygsf.com') > -1) ? '2' : '1';
