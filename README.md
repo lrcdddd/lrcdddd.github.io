@@ -1,13 +1,15 @@
  ## 春雨量刑评估
 一款轻量级量刑系统
 
-<img width="256" alt="proc41" src="https://user-images.githubusercontent.com/116004005/200094497-8e0d6376-9d89-40fb-b5b2-da20399d8d39.png">
+<img width="54" alt="春雨图标中" src="https://user-images.githubusercontent.com/116004005/200174231-423ef41a-d10f-499c-8d3c-bcde3b1a9d34.png">
+
 
 集合量刑、学习、法律司法解释规范性文件案例搜索于一体，是法律工作者、法律爱好者的良师挚友！！
 
 ## 软件下载
 
-<img width="54" alt="中图PNCpng" src="https://user-images.githubusercontent.com/116004005/200094839-524c6678-716e-4f9d-abab-c3f5ea98ac01.png"> 安卓版
+<img width="14" alt="春雨图标小" src="https://user-images.githubusercontent.com/116004005/200174255-f1865e86-be3f-4a69-8b16-06879beb841e.png">
+ 安卓版
 > ・软件下载地址：
 > 链接：https://pan.baidu.com/s/1w6qrKwnAwVFN4sEHo3ouGw 
 提取码：wq7p
