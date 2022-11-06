@@ -17,7 +17,7 @@
 提取码：wq7p
 > https://github.com/lrcdddd/lrcdddd.github.io
 
-> ・软件包分四卷分别为：app-release.zip.001;app-release.zip.002;app-release.zip.003;app-release.zip.004.
+> ・软件包分两卷分别为：app-release.zip.001;app-release.zip.002。
 
 
 苹果版，正在开发中
