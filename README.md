@@ -13,8 +13,9 @@
 
  安卓版
 > ・软件下载地址：
-> 链接：https://pan.baidu.com/s/1GxGXgKvJW2qXRXSdkk1rqw 
-提取码：cy2r；二维码：![下载二维码图](https://user-images.githubusercontent.com/116004005/204116929-3394c228-3f8d-4718-8b92-50268ee79f20.png)
+> 链接：链接：https://pan.baidu.com/s/1EMU_neL-70Y7IXsj2SfwzA 
+提取码：z2x1。二维码：![A1A4A1663CD9D92948F40CC4584B414E](https://user-images.githubusercontent.com/116004005/204165363-95f1f2ab-6313-481d-8511-54b92ebbea7e.png)
+
 
 
 > https://github.com/lrcdddd/lrcdddd.github.io
