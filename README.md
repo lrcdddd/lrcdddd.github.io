@@ -20,7 +20,7 @@
 
 > https://github.com/lrcdddd/lrcdddd.github.io
 
-> ・软件包分两卷分别为：chunyupg.zip.001;chunyupg.zip.002。
+> ・软件包分两卷分别为：chunyupg1.01.zip.001;chunyupg1.01.zip.002。
 
 
 苹果版，正在开发中
