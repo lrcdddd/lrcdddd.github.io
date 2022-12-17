@@ -13,8 +13,8 @@
 
  安卓版
 > ・软件下载地址：
-> 链接：链接：https://pan.baidu.com/s/1EMU_neL-70Y7IXsj2SfwzA 
-提取码：z2x1。二维码：![A1A4A1663CD9D92948F40CC4584B414E](https://user-images.githubusercontent.com/116004005/204165363-95f1f2ab-6313-481d-8511-54b92ebbea7e.png)
+> 链接：https://pan.baidu.com/s/1E073cssTt_4v4wSMpbQTog 
+提取码：2e6b.二维码：![092E7151FA1959384A647EB9D7F8CC2F](https://user-images.githubusercontent.com/116004005/208239110-6e782045-f5c6-4af0-863a-85b4a16dd0af.png)
 
 
 
